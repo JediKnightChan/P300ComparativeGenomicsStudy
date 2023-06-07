@@ -1,0 +1,10 @@
+# BLASTP 2.14.0+
+# Query: NP_001349772.1 EP300 [organism=Homo sapiens] [GeneID=2033] [isoform=2]
+# Database: /mnt/storage/project_2023/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+NP_001349772.1	WP_015791102.1	21.849	119	84	1	1018	1127	5	123	0.020	35.0
+NP_001349772.1	WP_015792047.1	27.586	58	40	1	1479	1534	410	467	3.8	27.7
+NP_001349772.1	WP_015791846.1	32.558	43	18	2	1640	1671	97	139	5.9	26.6
+NP_001349772.1	WP_015790932.1	36.364	33	21	0	278	310	133	165	9.2	26.2
+# BLAST processed 1 queries

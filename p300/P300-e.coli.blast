@@ -1,0 +1,14 @@
+# BLASTP 2.14.0+
+# Query: NP_001349772.1 EP300 [organism=Homo sapiens] [GeneID=2033] [isoform=2]
+# Database: /mnt/storage/project_2023/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_001349772.1	NP_418157.1	40.426	47	25	1	861	904	80	126	0.37	32.7
+NP_001349772.1	NP_417793.2	35.849	53	34	0	985	1037	43	95	0.40	31.2
+NP_001349772.1	YP_026218.1	25.191	131	78	7	1098	1226	79	191	0.44	32.3
+NP_001349772.1	NP_417235.1	59.091	22	6	1	1875	1893	273	294	0.50	32.0
+NP_001349772.1	NP_414567.1	27.778	108	57	5	1354	1459	722	810	0.82	31.6
+NP_001349772.1	NP_417921.1	22.321	112	80	2	923	1027	16	127	2.2	30.0
+NP_001349772.1	NP_418682.1	38.235	34	21	0	2326	2359	111	144	3.1	29.6
+NP_001349772.1	NP_417912.1	43.333	30	15	1	1684	1713	141	168	9.7	27.7
+# BLAST processed 1 queries
