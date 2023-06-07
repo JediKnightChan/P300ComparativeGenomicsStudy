@@ -27,4 +27,6 @@ Meanwhile, in h2a subunit the variation is vast, some of the isoforms have regio
 
 We see that our p300 appeared in the evolution very early, practically along with histones. Although it has lower score (-ln(e-value)) in ciliate and yeast, it still seems that they have something very similar to it. We know that bacterias don't have histones, and their score is lower than 1 practically for all - that will be over lower edge. Meanwhile thermococcus has some histone-similar proteins and its max score is 4.1 for histones - upper edge. Then, in tuberculosis score for P300 is 2.5 and in methanocaldococcus 1.7 - somewhere between the edges, we can't say for sure how much what was found was P300-similar or not, but it may be probable it still is. 
 
-Definetely we can only say that the standard P300 version is present since C. elegans.
+Definetely we can only say that the standard P300 version is present since C. elegans. This also was confirmed during manual check, since C. elegans has CBP-1 which has the same functionality and is so close that the family of these proteins is named p300-CBP coactivator family.
+
+Meanwhile, in yeast and ciliate there are similar proteins with acetyltranspherase activity and bromodomain, but they are more than 10 times smaller than original p300.
